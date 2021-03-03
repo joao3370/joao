@@ -1,0 +1,17 @@
+const daftarvip = (prefix) => { 
+	return `
+	
+*PREÇO DE LISTA VIP :*
+-Rp. 5 > Acessar recursos ViP
+-Rp. 13 > Recursos VIP + Insira seu bot no seu grupo!
+
+*SE QUER REGISTAR VIP :*
+*Proprietário do bate-papo BOT :*
+_wa.me/5548991635455 ou digite *${prefix}owner*
+
+*NOTE*
+
+*GRUPO DO BOT:*
+_https://chat.whatsapp.com/CmkF75cpzrP2vXtULDTNvq`
+}
+exports.daftarvip = daftarvip
